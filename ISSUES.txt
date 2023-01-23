@@ -1,0 +1,6 @@
+ISSUE #1: Audio Library
+The first time audio is played, there will be a delay to it. Simply play a map once and
+this delay will not be present on future playbacks.
+
+COMPATABLITIY #1: It is advised to play the game in fullscreen for the optimal experience.
+Playing in a small window may result in the GUI Elements being squished together.
