@@ -3,7 +3,7 @@ This was my Grade 11 Computer Science ISU project. It is a rhythm game based off
 
 # How to run
 To run this project, ensure that you have the latest version of Java and the JDK.
-If you are running this from the command line, do the following commands:
+If you are running this from the command line, navigate to the repository's directory and do the following commands:
 
 <pre>
 javac game.java
